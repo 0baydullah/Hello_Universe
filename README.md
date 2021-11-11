@@ -4,22 +4,6 @@
 
 
 <!DOCTYPE html>
-<html>
-<body>
-
-<h2>An unordered HTML list</h2>
-  <h1> Baler html </h1>
- 
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
-</body>
-</html>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
